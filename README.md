@@ -1,5 +1,10 @@
-# Introduction to LaTeX and Overleaf (Nov 26, 2019)
-Introduction to LaTeX with Overleaf by Cosima Meyer and Dennis Hammerschmidt, jointly organized by the Social Science Data Lab and the MZES Equal Opportunities Office.
+# Introduction to LaTeX and Overleaf 
+
+📍 MZES, Mannheim
+
+📆 Nov 26, 2019
+
+Introduction to LaTeX with Overleaf by [Cosima Meyer](http://cosimameyer.rbind.io/) and [Dennis Hammerschmidt](https://dennis-hammerschmidt.netlify.com/), jointly organized by the Social Science Data Lab and the MZES Equal Opportunities Office.
 
 
 📝[Slides](https://github.com/SocialScienceDataLab/LaTeX-intro/blob/master/LaTeX_Workshop_MZES.pdf)
